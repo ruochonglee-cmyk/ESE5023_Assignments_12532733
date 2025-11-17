@@ -1,0 +1,6 @@
+I recommend you  to upload the data in the project repository, which may help to run the code.
+For instance, you should use the path within the project directory rather than referencing your local files.
+
+1. (-0) 
+2. (+2) Good use of linear regression model. It'd better to show the slope value.
+3. (+2) Good job preprocessing the data, for example, handling missing values. It would be even better to also consider abnormal values.
