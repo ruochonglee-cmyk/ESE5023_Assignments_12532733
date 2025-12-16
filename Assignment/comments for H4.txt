@@ -1,0 +1,5 @@
+
+
+1 (-0) 
+2.1. (-3) x label, y label, and annotations are missing.
+2.2 (-4) x label, ylabel, annotations, and legend are missing.
